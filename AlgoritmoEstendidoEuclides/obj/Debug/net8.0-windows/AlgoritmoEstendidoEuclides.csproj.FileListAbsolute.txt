@@ -1,0 +1,69 @@
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.exe
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.deps.json
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.runtimeconfig.json
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.frm_algoritmo.resources
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.GenerateResource.cache
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfoInputs.cache
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfo.cs
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.sourcelink.json
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\refint\AlgoritmoEstendidoEuclides.dll
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.genruntimeconfig.cache
+D:\Arquivos\Documents\Escola\Git\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\ref\AlgoritmoEstendidoEuclides.dll
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.exe
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.deps.json
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.runtimeconfig.json
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.frm_algoritmo.resources
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.GenerateResource.cache
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfoInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfo.cs
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.CoreCompileInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.sourcelink.json
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\refint\AlgoritmoEstendidoEuclides.dll
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.genruntimeconfig.cache
+C:\Users\saryu\Downloads\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\ref\AlgoritmoEstendidoEuclides.dll
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.exe
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.deps.json
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.runtimeconfig.json
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.GenerateResource.cache
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.GeneratedMSBuildEditorConfig.editorconfig
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfoInputs.cache
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfo.cs
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.CoreCompileInputs.cache
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.sourcelink.json
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\refint\AlgoritmoEstendidoEuclides.dll
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.genruntimeconfig.cache
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\ref\AlgoritmoEstendidoEuclides.dll
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.Properties.Resources.resources
+H:\md\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.fm_euclides.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.exe
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.deps.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.runtimeconfig.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\bin\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.fm_euclides.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.Properties.Resources.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.GenerateResource.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfoInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.AssemblyInfo.cs
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.csproj.CoreCompileInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\refint\AlgoritmoEstendidoEuclides.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\AlgoritmoEstendidoEuclides.genruntimeconfig.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\AlgoritmoEstendidoEuclides\AlgoritmoEstendidoEuclides\obj\Debug\net8.0-windows\ref\AlgoritmoEstendidoEuclides.dll
