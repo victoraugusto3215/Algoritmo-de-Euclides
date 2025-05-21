@@ -15,7 +15,6 @@ O programa permite que o usuário:
 
 Para `a = 30` e `b = 21`, o programa exibe:
 
-```text
 30 = 21 · 1 + 9  
 21 = 9 · 2 + 3  
 9 = 3 · 3 + 0  
