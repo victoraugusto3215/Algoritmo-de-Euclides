@@ -1,6 +1,6 @@
 # 💡 Projeto – Algoritmo Estendido de Euclides
 
-Projeto acadêmico em **C#** utilizando **Windows Forms**, desenvolvido na disciplina de **Matemática Discreta**, do **6º período** do curso de **Sistemas de Informação** da **Faculdade Cotemig**, sob orientação do professor **Vangelis**.
+Projeto acadêmico em **C#** utilizando **Windows Forms**, desenvolvido na disciplina de **Matemática Discreta**, do **6º período** do curso de **Sistemas de Informação** da **Faculdade Cotemig**, sob orientação do professor **Vângellis Oliveira  Sagnori Bernardes**.
 
 ## 📌 Descrição
 
