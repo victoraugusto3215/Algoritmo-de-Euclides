@@ -23,11 +23,11 @@ MDC(30, 21) = 3
 Combinação Linear:  
 3 = 1 · 30 - 1 · 21
 
-## ⚙️ Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 
 - **C#**
 - **.NET Windows Forms**
 
-## ✅ Objetivo
+### ✅ Objetivo
 
 Aplicar os conceitos estudados em sala de aula de forma prática, utilizando programação para automatizar o processo de cálculo do MDC com a combinação linear associada.
